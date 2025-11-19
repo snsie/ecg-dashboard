@@ -11,3 +11,5 @@ __pycache__/
 *.pid.lock
 *.lock
 node_modules/
+.streamlit/
+*.db
